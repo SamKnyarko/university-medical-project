@@ -24,7 +24,7 @@ This project implements an Electronic Medical Record (EMR) System for the Univer
 
    ```bash
    git clone https://github.com/SamKnyarko/university-medical-project.git
-   cd ugmc-emr-system
+   cd university-medical-project 
    ```
 
 2. Install dependencies:
