@@ -1,1 +1,1 @@
-# university-medicical-project
+# university-medical-project
