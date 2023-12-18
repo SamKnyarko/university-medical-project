@@ -1,5 +1,6 @@
 # university-medicical-project
 # UGMC Electronic Medical Record System
+## ID:11352618
 
 ## Overview
 
@@ -56,7 +57,7 @@ This project implements an Electronic Medical Record (EMR) System for the Univer
     "otherNames": "James",
     "gender": "Male",
     "phoneNumber": "1234567890",
-    "residentialAddress": "123 Main St, City",
+    "residentialAddress": "Madina, Accra",
     "emergencyName": "Emergency Contact",
     "emergencyContact": "9876543210",
     "relationshipWithPatient": "Relative"
